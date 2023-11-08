@@ -1,1 +1,1 @@
-# -inearRegression_Assignment-2
+# LinearRegression_Assignment-2
